@@ -1,0 +1,5 @@
+defaultProject: data-pipe-line-436702
+defaultLocation: asia-south1
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
